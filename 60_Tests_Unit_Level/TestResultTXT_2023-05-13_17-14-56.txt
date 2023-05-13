@@ -1,0 +1,91 @@
+SW Version:
+main_2023-05-13_17-14-56.cpp
+C++ file copied successfully
+C++ file compiled succesfully
+Test 1: PASSED
+Expected output: 4
+Observed output: 4
+Debug output:
+1000000001
+Poczatek | 0 t: 8 4
+koniec   | t: 8 4 0
+
+Execution time: 0.04006s
+------------------------
+
+Test 2: PASSED
+Expected output: 2
+Observed output: 2
+Debug output:
+10001
+Poczatek | 0 t: 3 2
+koniec   | t: 3 1 0
+
+Execution time: 0.00765s
+------------------------
+
+Test 3: PASSED
+Expected output: 0
+Observed output: 0
+Debug output:
+111111
+Poczatek | 0 t: 0 0
+srodek   | t: 0 0 t: 0 0
+srodek   | t: 0 0 t: 0 0
+srodek   | t: 0 0 t: 0 0
+srodek   | t: 0 0 t: 0 0
+koniec   | t: 0 0 0
+
+Execution time: 0.00799s
+------------------------
+
+Test 4: PASSED
+Expected output: 11
+Observed output: 11
+Debug output:
+00000000000110000001001100100110000000100000001010000010000000100000100000010000010100100001000
+Poczatek | 11 t: 0 0
+srodek   | t: 0 0 t: 6 3
+srodek   | t: 6 3 t: 2 1
+srodek   | t: 2 1 t: 0 0
+srodek   | t: 0 0 t: 2 1
+srodek   | t: 2 1 t: 2 1
+srodek   | t: 2 1 t: 0 0
+srodek   | t: 0 0 t: 7 3
+srodek   | t: 7 4 t: 7 3
+srodek   | t: 7 4 t: 1 0
+srodek   | t: 1 1 t: 5 2
+srodek   | t: 5 3 t: 7 3
+srodek   | t: 7 4 t: 5 2
+srodek   | t: 5 3 t: 6 3
+srodek   | t: 6 3 t: 5 2
+srodek   | t: 5 3 t: 1 0
+srodek   | t: 1 1 t: 2 1
+srodek   | t: 2 1 t: 4 2
+koniec   | t: 4 2 3
+
+Execution time: 0.00807s
+------------------------
+
+Test 5: PASSED
+Expected output: 46
+Observed output: 46
+Debug output:
+1100001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000011
+Poczatek | 0 t: 0 0
+srodek   | t: 0 0 t: 4 2
+srodek   | t: 4 2 t: 91 45
+srodek   | t: 91 46 t: 0 0
+koniec   | t: 0 0 0
+
+Execution time: 0.01100s
+------------------------
+
+Test 6: PASSED
+Expected output: 99
+Observed output: 99
+Debug output:
+1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+Execution time: 0.00877s
+------------------------
